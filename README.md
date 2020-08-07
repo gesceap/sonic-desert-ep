@@ -1,5 +1,7 @@
 Sonic Desert EP intends to evoke feelings of the Mojave desert, where I was raised in my youth.
 
+https://gesceap.bandcamp.com/album/sonic-desert-ep
+
 An attempt to express solitude, albeit peaceful and isolating, scavenging for life without interruptions. Survival in individualistic terms.
 
 Special thanks to 2xAA for the collaboration on the website
