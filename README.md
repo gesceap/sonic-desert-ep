@@ -14,4 +14,4 @@ Thank you all for the inspiration; nullptr, boaconstructor, 2xAA, 4mat, Chip tan
 
 # Download
 
-https://github.com/gesceap/sonic-desert-ep/archive/refs/heads/main.zip
+https://github.com/gesceap/sonic-desert-ep/archive/refs/heads/master.zip
