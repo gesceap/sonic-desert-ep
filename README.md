@@ -11,3 +11,7 @@ http://gesceap.github.io
 All music created on Nanoloop iOS on an iPad 2
 
 Thank you all for the inspiration; nullptr, boaconstructor, 2xAA, 4mat, Chip tanaka, cowp, sylcmyk, silent bomber, i my me mine, driften, 2A0X, glooms, jellica, 0F.digital, Harleylikesmusic, havocCc, Dot.AY, littlescale, gala, ctrix, lysdexic, ouchiehour, gigandect, and many more
+
+# Download
+
+https://github.com/gesceap/sonic-desert-ep/archive/refs/heads/main.zip
